@@ -1,222 +1,384 @@
 {
   "navbar": {
-    "logoTagline": "The Steel Hub",
+    "logoTagline": "Reesha and Riya",
     "navLinks": [
-      { "href": "#about", "label": "About" },
-      { "href": "#products", "label": "Products" },
-      { "href": "#brands", "label": "Brands" },
-      { "href": "#cases", "label": "Case Studies" },
-      { "href": "#clients", "label": "Clients" }
+      {
+        "href": "#about",
+        "label": "About"
+      },
+      {
+        "href": "#services",
+        "label": "Services"
+      },
+      {
+        "href": "#destinations",
+        "label": "Destinations"
+      },
+      {
+        "href": "#cases",
+        "label": "Case Studies"
+      },
+      {
+        "href": "#clients",
+        "label": "Clients"
+      }
     ],
     "ctaLabel": "Contact Us"
   },
   "categories": [
     {
-      "label": "Flat Products",
-      "title": "Plates, Sheets\n& Coils",
-      "img": "/products/ms-hrc-plate.jpeg",
-      "desc": "HRC plates, CRC sheets, GP plates and coils for heavy fabrication."
+      "label": "Holiday Packages",
+      "title": "Customized\nVacation Plans",
+      "img": "https://source.unsplash.com/1600x900/?business%2Coffice%2Cprofessional&sig=0",
+      "desc": "Personalized holiday itineraries tailored to your preferences, budget, and travel style with accommodations and guided experiences."
     },
     {
-      "label": "Structural Steel",
-      "title": "Angles, Beams\n& Channels",
-      "img": "/products/beams.jpeg",
-      "desc": "I-beams, H-beams, angles, channels and TMT bars for load-bearing structures."
+      "label": "Adventure Travel",
+      "title": "Thrilling\nExperiences",
+      "img": "https://source.unsplash.com/1600x900/?team%2Cmeeting%2Ccorporate&sig=1",
+      "desc": "Curated trekking expeditions, wildlife safaris, water sports, and cultural immersion tours for adventure enthusiasts and nature lovers."
     },
     {
-      "label": "Roofing & Sheets",
-      "title": "Roofing &\nCladding",
-      "img": "/products/colour-coated-sheets.jpeg",
-      "desc": "GI corrugated, colour-coated, polycarbonate and deck sheets for all roofing needs."
+      "label": "Travel Support",
+      "title": "Visa & Travel\nInsurance",
+      "img": "https://source.unsplash.com/1600x900/?city%2Cbuilding%2Cmodern&sig=2",
+      "desc": "Complete visa assistance, documentation support, and comprehensive travel insurance with 24/7 customer support during your journey."
     }
   ],
   "theme": {
-    "primary": "#4A6FA5",
-    "primaryDark": "#2D5585",
-    "secondary": "#1B2A3B",
-    "secondaryLight": "#243550"
+    "primary": "#C56A39",
+    "primaryDark": "#C56A39",
+    "secondary": "#8B3E15",
+    "secondaryLight": "#8B3E15",
+    "accent": "#F5A672",
+    "accentLight": "#F5A672"
   },
   "branding": {
     "logoUrl": "",
-    "logoText": "NAMO STEEL",
-    "headingFont": "Inter",
-    "bodyFont": "Inter",
-    "selectedPalette": "steel-midnight"
+    "logoText": "Reesha and Riya",
+    "headingFont": "Cormorant Garamond",
+    "bodyFont": "Montserrat",
+    "selectedPalette": "travel-elegant"
   },
   "hero": {
-    "badge": "SINCE 1995",
-    "title": "Steel Solutions for\nSolid Foundations.",
-    "subtitle": "Crafting the Backbone of Industry.",
+    "badge": "WANDERLUST AWAITS",
+    "title": "Discover Your Next\nAdventure with Us.",
+    "subtitle": "Your Trusted Travel Partners for Unforgettable Journeys Around the World.",
     "phone": "+91 98604 89490",
-    "ctaText": "Explore Products",
+    "ctaText": "Get in Touch",
     "stats": [
-      { "num": "30+", "label": "Years Experience" },
-      { "num": "15+", "label": "Brands" },
-      { "num": "ISI", "label": "Certified Products" }
+      {
+        "num": "500+",
+        "label": "Journeys Completed"
+      },
+      {
+        "num": "50+",
+        "label": "Global Destinations"
+      },
+      {
+        "num": "5★",
+        "label": "Client Satisfaction"
+      }
     ]
   },
   "about": {
-    "sectionLabel": "About Our Company",
-    "heading": "Your Trusted Partner in Steel & Structure.",
-    "description": "We are trusted dealers in construction and industrial steel products, serving the industry for over 30 years. Known for quality, reliability, and competitive pricing, we supply ISI-certified steel with assured strength and precision. Backed by strong manufacturer tie-ups, we ensure timely delivery and customer satisfaction across every order.",
+    "sectionLabel": "About Our Agency",
+    "heading": "Creating Extraordinary Travel Experiences Since Day One.",
+    "description": "At Reesha and Riya, we specialize in creating personalized travel experiences that go beyond standard itineraries. We understand that every traveler is unique, combining expert local knowledge with bespoke planning to deliver unforgettable journeys tailored to your preferences, budget, and travel style. Whether you're seeking adventure, relaxation, cultural immersion, or family-friendly experiences, we handle every detail so you can focus on making memories. Our commitment is simple: exceptional service, authentic experiences, and journeys that exceed expectations.",
     "checklist": [
-      "ISI-Certified, High-Strength Products",
-      "Wide Product Range",
-      "30+ Years of Industry Trust"
+      "Personalized Itinerary Design",
+      "Expert Local Knowledge Across 50+ Destinations",
+      "24/7 Customer Support During Your Journey"
     ],
-    "vision": "To deliver superior-quality steel solutions that consistently exceed customer expectations through innovation, service excellence, and long-term partnerships.",
-    "mission": "To build lasting relationships by offering exceptional service, embracing technology, and supporting every customer's steel requirement with integrity and expertise."
+    "vision": "To become the world's most trusted travel partner, known for crafting transformative journeys that create lifelong memories and inspire meaningful connections between travelers and the world.",
+    "mission": "To deliver exceptional travel experiences through personalized planning, authentic local partnerships, and unwavering commitment to exceeding every traveler's expectations."
   },
   "why": {
-    "sectionLabel": "Why Choose Us?",
-    "heading": "Reasons to Partner with Namo Steel",
+    "sectionLabel": "Why Choose Reesha and Riya?",
+    "heading": "Reasons to Trust Us with Your Adventure",
     "items": [
-      { "title": "30+ Years of Industry Experience" },
-      { "title": "ISI-Certified, High-Strength Products" },
-      { "title": "Strong Manufacturer Partnerships" },
-      { "title": "Fast, On-Time Delivery" },
-      { "title": "Competitive Pricing" },
-      { "title": "Wide Product Range Under One Roof" }
+      {
+        "title": "Fully Personalized Itineraries Tailored to You"
+      },
+      {
+        "title": "Expert Local Knowledge Across Multiple Continents"
+      },
+      {
+        "title": "Established Partnerships with Premium Hotels & Services"
+      },
+      {
+        "title": "Seamless Visa and Documentation Assistance"
+      },
+      {
+        "title": "Competitive Pricing with Transparent Costs"
+      },
+      {
+        "title": "24/7 Support Before, During, and After Your Journey"
+      }
     ]
   },
   "certifications": {
-    "sectionLabel": "Our Certifications & Partners",
-    "heading": "Quality You Can Trust",
+    "sectionLabel": "Our Credentials & Partnerships",
+    "heading": "Travel Excellence You Can Trust",
     "items": [
-      { "num": "01", "title": "All Products are ISI Certified" },
-      { "num": "02", "title": "Sourced from Top-Tier Manufacturers" },
-      { "num": "03", "title": "Strict Quality Control for Strength, Shape, Gauge & Bonding" }
+      {
+        "num": "01",
+        "title": "Licensed Travel Agency with Global Accreditation"
+      },
+      {
+        "num": "02",
+        "title": "Partnerships with Premium Hotels & Airlines Worldwide"
+      },
+      {
+        "num": "03",
+        "title": "Verified Travel Insurance Providers & Visa Experts"
+      }
     ]
   },
   "services": {
-    "sectionLabel": "Service Excellence",
-    "heading": "Delivering Beyond Expectations",
+    "sectionLabel": "Our Travel Services",
+    "heading": "Comprehensive Travel Solutions for Every Traveler",
     "items": [
       {
-        "title": "Fast & On-Time Delivery",
-        "desc": "We understand project timelines. Our logistics ensure your material arrives exactly when you need it."
+        "title": "Customized Holiday Packages",
+        "desc": "From romantic getaways to family vacations, we design itineraries that match your style, budget, and dreams perfectly."
       },
       {
-        "title": "High Accuracy in Order Fulfillment",
-        "desc": "Precise quantities, correct grades, and verified dimensions on every single order."
+        "title": "Adventure & Experiential Travel",
+        "desc": "Trek through mountains, explore wildlife, experience water sports, and immerse yourself in authentic local cultures."
       },
       {
-        "title": "Technical Support & Customized Solutions",
-        "desc": "Our experts help you choose the right product and can supply made-to-order specifications."
+        "title": "Visa & Documentation Assistance",
+        "desc": "Navigate complex visa processes with expert guidance. We handle all documentation requirements for smooth international travel."
       }
     ]
   },
   "brands": [
-    "ROOPAM STEEL", "TATA STEEL", "SAIL (सेल)", "VIZAG STEEL",
-    "PUSHPA TMX 500", "RAJURI STEEL", "BHUSHAN POWER & STEEL",
-    "SHREE OM 500 TMT", "RAMA STEEL", "ICON STEEL TMT REBAR",
-    "APL APOLLO", "UMA 550 TMT BARS", "KALIKA STEEL", "GSPL 500 TMT", "JSW STEEL"
+    "Southeast Asia Explorer",
+    "European Heritage Tours",
+    "Middle East Discovery",
+    "South Asian Odyssey",
+    "Adventure Expeditions",
+    "Luxury Getaways",
+    "Family Vacation Specialist",
+    "Cultural Immersion Series",
+    "Beach Paradise Collection",
+    "Mountain & Trekking Adventures",
+    "Wildlife Safari Tours",
+    "Wellness & Retreat Packages",
+    "Solo Traveler Programs",
+    "Group Tour Experiences",
+    "Corporate Travel Solutions"
   ],
   "caseStudies": [
     {
       "num": "01",
-      "title": "Industrial Packers",
-      "client": "Client: Gaurav",
-      "project": "Custom Skids from Chequered Plates",
-      "desc": "We designed and supplied custom-made skids from chequered plates to securely transport engines. The skids were precisely engineered for a perfect fit, ensuring safe transport and reusability for up to 5 years. With a 7-year track record of supplying quality raw materials like channels & plates, we delivered a durable, returnable solution that met all requirements for accuracy, strength, and ease of handling."
+      "title": "Swiss Alps Adventure",
+      "client": "Client: Sharma Family",
+      "project": "Custom 12-Day Europe Tour",
+      "desc": "The Sharma family wanted an unforgettable European experience combining adventure with luxury. We crafted a 12-day itinerary spanning Switzerland, Austria, and Germany with mountain hikes, scenic train journeys, and curated dining experiences. From booking premium alpine hotels to arranging private guides, we handled every detail. The family returned with memories that lasted a lifetime and recommended us to 8 friends."
     },
     {
       "num": "02",
-      "title": "Omkar Industries",
-      "client": "Client: Omkar Joshi (Owner)",
-      "project": "Custom-Dimension CRC Sheets",
-      "desc": "Omkar Industries required made-to-order CRC sheets in precise dimensions: 435 × 1250 × 1.5 mm and 353 × 1250 × 1.5 mm. They needed sheets with exact measurements, high-quality finish, scratch-free surfaces, no rust, and secure packaging. We delivered perfectly matched material meeting all quality standards."
+      "title": "Bali Cultural Escape",
+      "client": "Client: Priya Desai",
+      "project": "7-Day Immersive Bali Experience",
+      "desc": "Priya sought authentic cultural experiences beyond typical tourist attractions. We designed a 7-day journey including rice field treks, temple visits with local guides, traditional cooking classes, and stays in heritage boutique hotels. Our partnerships ensured exclusive access to ceremonies and artisan workshops. Priya's testimonial highlighted how our personal touch transformed her travel experience."
     },
     {
       "num": "03",
-      "title": "Patil Automation Limited",
-      "client": "6-Year Partnership",
-      "project": "Plates, Angles, Channels & CRC Sheets",
-      "desc": "Referred by BNI member Shashi Ji, we began supplying plates, angles, channels, CRC sheets and more to Patil Automation Limited six years ago. Our quality and timely service have made this a lasting partnership that continues today."
+      "title": "Maldives Honeymoon",
+      "client": "3-Year Partnership",
+      "project": "Luxury Island Resort & Water Activities",
+      "desc": "Over three years, we've arranged over 20 honeymoon packages to the Maldives for discerning couples. Our curated partnerships with premium resorts, private island experiences, water sports coordination, and romantic sunset experiences have made Maldives our most requested destination."
     },
     {
       "num": "04",
-      "title": "Convill Landmark",
-      "client": "₹10 Crore Project",
-      "project": "PMC Bars for Entire Development",
-      "desc": "Through a strong referral from BNI members Kareem Chambe and Omkar, we connected with Convill Landmark. This recommendation led to a ₹10 crore project, where we supplied PMC bars for the entire development."
+      "title": "Corporate Team Building Trip",
+      "client": "TechVision Solutions",
+      "project": "₹25 Lakh Corporate Adventure Program",
+      "desc": "We coordinated a 5-day team-building adventure to Himachal Pradesh for 40 corporate professionals. Managing flights, accommodations, group activities including trekking and water rafting, meals, and ground logistics, we ensured seamless execution and 98% attendee satisfaction."
     },
     {
       "num": "05",
-      "title": "Doodh Techno Projects",
-      "client": "3-Year Partnership",
-      "project": "TMT Bars & Structural Steel",
-      "desc": "Referred by member Shubham, we have been supplying TMT bars and structural steel to Doodh Techno Projects for the past three years, ensuring consistent quality and timely delivery."
+      "title": "Multi-Generational Family Tour",
+      "client": "2-Year Ongoing Partnership",
+      "project": "Annual Family Reunions Across Destinations",
+      "desc": "We've been coordinating annual family reunions for an extended Indian family, managing travel for 35+ members across Europe, Thailand, and domestic destinations. Our expertise in group dynamics, accessibility needs, and budget optimization has made us their trusted travel partner."
     },
     {
       "num": "06",
-      "title": "Praveen Rawat & Associates",
-      "client": "3-Year Partnership",
-      "project": "TMT Bars for Modern College Contractors",
-      "desc": "Referred by member Sandeep Shah, we began supplying TMT bars to Praveen Rawat and Associates, contractors for Modern College, for the past three years."
+      "title": "Adventure Seeker's Quest",
+      "client": "Client: Arjun Mehta",
+      "project": "Custom 21-Day Multi-Country Adventure",
+      "desc": "An adventure enthusiast sought an adrenaline-packed 3-week journey across Nepal, Thailand, and Indonesia. We arranged mountain treks, paragliding experiences, jungle safaris, and water sports activities while managing visas, travel insurance, and accommodation throughout. His blog post about the journey resulted in 12 new client referrals."
     }
   ],
   "clients": [
-    "Abhiyanta PMC Pvt Ltd", "Matchwell Engineering Pvt Ltd",
-    "Darsheel Construction", "Mahati Industries Pvt Ltd",
-    "Elements Technofabs Pvt Ltd", "Omkar Industries",
-    "Konbil Landmarks", "Patil Automation",
-    "Industrial Packers", "Pravin Raut & Associates",
-    "Innoova Construction", "Q Point Engineering",
-    "Surich Industries", "Scon Projects"
+    "Sharma Family Holdings",
+    "TechVision Solutions",
+    "Luxe Living Enterprises",
+    "Global Finance Consulting",
+    "Wellness Retreat Centers",
+    "Adventure Sports India",
+    "Heritage Hotels Group",
+    "Corporate Events Ltd",
+    "Education Travel Partners",
+    "Lifestyle Magazine Media",
+    "Medical Tourism Network",
+    "Family Services Agency",
+    "Luxury Travel Club",
+    "International School Consortium"
   ],
   "contact": {
     "sectionLabel": "Get In Touch",
-    "heading": "Let's Build Something Strong Together",
-    "subheading": "Reach out to us for inquiries, quotes, or customized steel solutions. We're ready to serve your project needs.",
+    "heading": "Start Planning Your Dream Journey Today",
+    "subheading": "Reach out to us for personalized travel consultations, custom itineraries, and expert guidance. We're excited to help you explore the world.",
     "phone": "+91 98604 89490",
-    "email": "namotradelink@gmail.com",
-    "address": "Office No. 801, Apex Business Court,\nNear Gangadham, Pune 411037",
-    "businessType": "Iron & Steel Merchants"
+    "email": "info@reeshaariya.com",
+    "address": "Travel Consultancy Office, Premium Travel Center,\nConnaught Place, New Delhi 110001",
+    "businessType": "Travel Agency & Tour Operator"
   },
   "footer": {
-    "brandName": "NAMO STEEL",
-    "tagline": "Trusted dealers in construction and industrial steel products since 1995. Serving the industry with quality, reliability, and competitive pricing.",
-    "presentedBy": "Pratik Khivsara",
-    "presentedEmail": "namotradelink@gmail.com",
+    "brandName": "Reesha and Riya",
+    "tagline": "Your trusted travel partners creating personalized, unforgettable journeys across the world. Expert planning, authentic experiences, exceptional service.",
+    "presentedBy": "Reesha Kapoor & Riya Sharma",
+    "presentedEmail": "info@reeshaariya.com",
     "presentedPhone": "+91 98604 89490",
-    "copyright": "© 2025 Namo Steel. All rights reserved. | Iron & Steel Merchants Since 1995"
+    "copyright": "© 2026 Reesha and Riya. All rights reserved.",
+    "ctaText": "Get in Touch"
   },
   "products": {
-    "sectionLabel": "Our Product Range",
-    "heading": "Steel Solutions for Every Need",
+    "sectionLabel": "Our Service Categories",
+    "heading": "Complete Travel Solutions for Every Journey",
     "flat": [
-      { "title": "M.S-HRC Plate", "desc": "Hot rolled coil plates for heavy construction & fabrication.", "img": "/products/ms-hrc-plate.jpeg" },
-      { "title": "CRC Plate", "desc": "Cold rolled plates with smooth finish and precision thickness.", "img": "/products/crc-plate.jpeg" },
-      { "title": "Sheet", "desc": "Versatile steel sheets for industrial and structural applications.", "img": "/products/sheet.jpeg" },
-      { "title": "GP Plate", "desc": "Galvanized plates offering superior corrosion resistance.", "img": "/products/gp-plate.jpeg" }
+      {
+        "title": "Customized Holiday Packages",
+        "desc": "Personalized vacation itineraries including accommodation, transportation, and guided tours tailored to your preferences.",
+        "img": "https://source.unsplash.com/1600x900/?workspace%2Cclean%2Cbright&sig=3"
+      },
+      {
+        "title": "Corporate Travel Solutions",
+        "desc": "Seamless business travel management including flights, hotels, ground transportation, and itinerary coordination.",
+        "img": "https://source.unsplash.com/1600x900/?professional%2Csuit%2Cconfident&sig=4"
+      },
+      {
+        "title": "Hotel & Accommodation Booking",
+        "desc": "Access to curated accommodations from budget hostels to luxury resorts across global destinations.",
+        "img": "https://source.unsplash.com/1600x900/?office%2Cinterior%2Cmodern&sig=5"
+      },
+      {
+        "title": "Travel Insurance & Support",
+        "desc": "Comprehensive travel insurance packages with 24/7 customer support during your entire journey.",
+        "img": "https://source.unsplash.com/1600x900/?brand%2Cidentity%2Cprofessional&sig=6"
+      }
     ],
     "tubular": [
-      { "title": "M.S Pipes", "desc": "Mild steel pipes for structural and industrial piping needs.", "img": "/products/ms-pipes.jpeg" },
-      { "title": "GP Pipes", "desc": "Galvanized pipes for plumbing, fencing, and construction.", "img": "/products/gp-pipes.jpeg" },
-      { "title": "CRC Pipes", "desc": "Cold rolled pipes with smooth finish for precision use cases.", "img": "/products/crc-pipes.jpeg" }
+      {
+        "title": "Visa & Documentation Assistance",
+        "desc": "Expert guidance through visa applications, documentation requirements, and international travel permits.",
+        "img": "https://source.unsplash.com/1600x900/?growth%2Csuccess%2Cbusiness&sig=7"
+      },
+      {
+        "title": "Adventure Expeditions",
+        "desc": "Curated trekking, wildlife safaris, water sports, and active experience packages for adventure enthusiasts.",
+        "img": "https://source.unsplash.com/1600x900/?business%2Coffice%2Cprofessional&sig=0"
+      },
+      {
+        "title": "Cultural Immersion Tours",
+        "desc": "Authentic experiences including local guides, heritage sites, traditional workshops, and community interactions.",
+        "img": "https://source.unsplash.com/1600x900/?team%2Cmeeting%2Ccorporate&sig=1"
+      }
     ],
     "structural": [
-      { "title": "Angles (Z, T, Equal)", "desc": "Structural angles for framing, brackets & support structures.", "img": "/products/angles.jpeg" },
-      { "title": "Flats", "desc": "Steel flats for fabrication, gates, grills & industrial uses.", "img": "/products/flats.jpeg" },
-      { "title": "Beams", "desc": "I-beams & H-beams for load-bearing structural applications.", "img": "/products/beams.jpeg" },
-      { "title": "Channels", "desc": "C-channels and U-channels for structural frameworks.", "img": "/products/channels.jpeg" },
-      { "title": "TMT Bars", "desc": "ISI-certified TMT bars for RCC construction & reinforcement.", "img": "/products/tmt-bars.jpeg" },
-      { "title": "CRC Coils", "desc": "Cold rolled coils for manufacturing and automotive parts.", "img": "/products/crc-coils.jpeg" }
+      {
+        "title": "Southeast Asia Packages",
+        "desc": "Expert-curated itineraries across Thailand, Vietnam, Cambodia, Indonesia, and Malaysia.",
+        "img": "https://source.unsplash.com/1600x900/?city%2Cbuilding%2Cmodern&sig=2"
+      },
+      {
+        "title": "South Asian Tours",
+        "desc": "Discover India, Nepal, Sri Lanka, Bhutan, and Bangladesh with our regional expertise.",
+        "img": "https://source.unsplash.com/1600x900/?workspace%2Cclean%2Cbright&sig=3"
+      },
+      {
+        "title": "European Adventures",
+        "desc": "Comprehensive travel experiences across Western Europe, Eastern Europe, and Scandinavia.",
+        "img": "https://source.unsplash.com/1600x900/?professional%2Csuit%2Cconfident&sig=4"
+      },
+      {
+        "title": "Middle East Experiences",
+        "desc": "Cultural and adventure tours across UAE, Saudi Arabia, Jordan, and other Middle Eastern destinations.",
+        "img": "https://source.unsplash.com/1600x900/?office%2Cinterior%2Cmodern&sig=5"
+      },
+      {
+        "title": "Beach & Wellness Retreats",
+        "desc": "Relaxation and rejuvenation packages combining beach paradise with wellness activities.",
+        "img": "https://source.unsplash.com/1600x900/?brand%2Cidentity%2Cprofessional&sig=6"
+      },
+      {
+        "title": "Mountain & Trekking Adventures",
+        "desc": "High-altitude expeditions, hiking trails, and mountaineering experiences worldwide.",
+        "img": "https://source.unsplash.com/1600x900/?growth%2Csuccess%2Cbusiness&sig=7"
+      }
     ],
     "roofing": [
-      { "title": "Polycarbonate Sheets", "desc": "Transparent & UV-resistant sheets for skylights & roofing.", "img": "/products/polycarbonate-sheets.jpeg" },
-      { "title": "GI Corrugated & Perforated Sheets", "desc": "Durable galvanized sheets for industrial roofing applications.", "img": "/products/gi-corrugated-perforated-sheets.jpeg" },
-      { "title": "Colour Coated Sheets", "desc": "Pre-painted sheets available in multiple colours and profiles.", "img": "/products/colour-coated-sheets.jpeg" },
-      { "title": "Deck Sheets", "desc": "Structural deck sheets for composite flooring systems.", "img": "/products/deck-sheets.jpeg" }
+      {
+        "title": "Family Vacation Packages",
+        "desc": "Child-friendly itineraries with theme parks, beaches, and engaging cultural experiences.",
+        "img": "https://source.unsplash.com/1600x900/?business%2Coffice%2Cprofessional&sig=0"
+      },
+      {
+        "title": "Romantic Honeymoon Tours",
+        "desc": "Intimate getaways to paradise destinations with luxury accommodations and special experiences.",
+        "img": "https://source.unsplash.com/1600x900/?team%2Cmeeting%2Ccorporate&sig=1"
+      },
+      {
+        "title": "Solo Traveler Programs",
+        "desc": "Safe, enriching journeys designed for independent travelers seeking adventure and connection.",
+        "img": "https://source.unsplash.com/1600x900/?city%2Cbuilding%2Cmodern&sig=2"
+      },
+      {
+        "title": "Group Tour Experiences",
+        "desc": "Curated group adventures with built-in social opportunities and shared experiences.",
+        "img": "https://source.unsplash.com/1600x900/?workspace%2Cclean%2Cbright&sig=3"
+      }
     ],
     "accessories": [
-      { "title": "Weld Mesh & Chain Link", "desc": "For fencing, partitions and reinforcement mesh applications.", "img": "/products/weld-mesh-chain-link.jpeg" },
-      { "title": "Self Tapping Screws", "desc": "High-quality screws for sheet metal and roofing fastening.", "img": "/products/self-tapping-screws.jpeg" },
-      { "title": "Binding Wire", "desc": "Annealed wire for tying reinforcement bars in construction.", "img": "/products/binding-wire.jpeg" },
-      { "title": "Cement Sheet", "desc": "Fibre cement sheets for roofing & wall cladding applications.", "img": "/products/cement-sheet.jpeg" },
-      { "title": "Plate Cutting", "desc": "Custom plasma/gas cutting service to exact dimensions.", "img": "/products/plate-cutting.jpeg" },
-      { "title": "Foundation Bolts", "desc": "Anchor bolts for machinery and structural foundation use.", "img": "/products/foundation-bolts.jpeg" }
+      {
+        "title": "Flight Booking & Management",
+        "desc": "International and domestic flight arrangements with competitive rates and flexible options.",
+        "img": "https://source.unsplash.com/1600x900/?professional%2Csuit%2Cconfident&sig=4"
+      },
+      {
+        "title": "Ground Transportation Services",
+        "desc": "Airport transfers, private car rentals, and guided transportation throughout your journey.",
+        "img": "https://source.unsplash.com/1600x900/?office%2Cinterior%2Cmodern&sig=5"
+      },
+      {
+        "title": "Guided Tour Coordination",
+        "desc": "Professional local guides offering cultural insights and authentic regional experiences.",
+        "img": "https://source.unsplash.com/1600x900/?brand%2Cidentity%2Cprofessional&sig=6"
+      },
+      {
+        "title": "Activity & Experience Booking",
+        "desc": "Adventure sports, cultural workshops, dining experiences, and exclusive local activities.",
+        "img": "https://source.unsplash.com/1600x900/?growth%2Csuccess%2Cbusiness&sig=7"
+      },
+      {
+        "title": "Travel Document Support",
+        "desc": "Passport assistance, visa applications, travel permits, and international documentation services.",
+        "img": "https://source.unsplash.com/1600x900/?business%2Coffice%2Cprofessional&sig=0"
+      },
+      {
+        "title": "24/7 Emergency Support",
+        "desc": "Round-the-clock customer assistance, emergency contacts, and real-time travel support.",
+        "img": "https://source.unsplash.com/1600x900/?team%2Cmeeting%2Ccorporate&sig=1"
+      }
     ]
+  },
+  "cta": {
+    "label": "Get in Touch",
+    "buttonText": "Get in Touch"
   }
 }
